@@ -1,16 +1,16 @@
 # Vinicius Moreira
 
-## Desenvolvedor Front-end Jr
+## Junior Front-end Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=viniciusmoreira&color=blueviolet)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusmoreira/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/viniciusmoreira)
 
-### Sobre Mim
+### About Me
 
-Olá! Sou Vinicius Moreira, um desenvolvedor Front-end Jr apaixonado por criar experiências web incríveis e intuitivas. Com 3 anos de experiência no desenvolvimento web, estou sempre em busca de novos desafios e oportunidades para crescer profissionalmente.
+Hello! I'm Vinicius Moreira, a Junior Front-end Developer passionate about creating amazing and intuitive web experiences. With 3 years of experience in web development, I'm always seeking new challenges and opportunities to grow professionally.
 
-### Habilidades
+### Skills
 
 - HTML5, CSS3, JavaScript (ES6+)
 - React.js
@@ -19,32 +19,32 @@ Olá! Sou Vinicius Moreira, um desenvolvedor Front-end Jr apaixonado por criar e
 - UI/UX Principles
 - Performance Optimization
 
-### Experiência
+### Experience
 
-- 3 anos de experiência em desenvolvimento web
-- Participação em projetos de diversos setores
-- Colaboração efetiva em equipes multidisciplinares
+- 3 years of experience in web development
+- Participation in projects across various sectors
+- Effective collaboration in multidisciplinary teams
 
-### Objetivos
+### Objectives
 
-Estou em busca de oportunidades desafiadoras que me permitam:
+I'm looking for challenging opportunities that allow me to:
 
-1. Contribuir para projetos inovadores
-2. Aprimorar minhas habilidades técnicas
-3. Colaborar com equipes talentosas
-4. Criar soluções de impacto para os usuários finais
+1. Contribute to innovative projects
+2. Enhance my technical skills
+3. Collaborate with talented teams
+4. Create impactful solutions for end users
 
-### Projetos Destacados
+### Featured Projects
 
-- [Projeto 1](https://github.com/viniciusmoreira/projeto1): Breve descrição do projeto e tecnologias utilizadas.
-- [Projeto 2](https://github.com/viniciusmoreira/projeto2): Breve descrição do projeto e tecnologias utilizadas.
-- [Projeto 3](https://github.com/viniciusmoreira/projeto3): Breve descrição do projeto e tecnologias utilizadas.
+- [Project 1](https://github.com/viniciusmoreira/project1): Brief description of the project and technologies used.
+- [Project 2](https://github.com/viniciusmoreira/project2): Brief description of the project and technologies used.
+- [Project 3](https://github.com/viniciusmoreira/project3): Brief description of the project and technologies used.
 
-### Contato
+### Contact
 
-📧 Email: seu.email@exemplo.com
-🌐 Portfolio: [www.seuportfolio.com](https://www.seuportfolio.com)
+📧 Email: your.email@example.com
+🌐 Portfolio: [www.yourportfolio.com](https://www.yourportfolio.com)
 
 ---
 
-💼 Aberto a novas oportunidades e colaborações! Vamos construir algo incrível juntos?
+💼 Open to new opportunities and collaborations! Let's build something amazing together?
